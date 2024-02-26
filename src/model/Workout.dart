@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import '../Converter.dart';
+import 'Converter.dart';
 import 'Excercise.dart';
 
 

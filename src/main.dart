@@ -1,8 +1,7 @@
-import 'Tracker.dart';
 import 'model/Excercise.dart';
 import 'model/Set.dart';
 import 'model/Workout.dart';
-
+import 'package:flutter/material.dart';
 void main(){
  Workout test = Workout(trainingName: 'new training');
   test.addExcercise(excercise: Excercise(name:'biceps  curls', muscleGroup: 'arms'));

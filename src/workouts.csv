@@ -1,4 +1,8 @@
 name,startTime,endTime,excercise,setIndex,reps,weight
+new training,26.2.2024 20:15,26.2.2024 20:15,biceps  curls, ,0,12,10
+new training,26.2.2024 20:15,26.2.2024 20:15,biceps  curls, ,1,5,20
+new training,26.2.2024 20:15,26.2.2024 20:15,bench press, ,0,12,10
+new training,26.2.2024 20:15,26.2.2024 20:15,bench press, ,1,7,20
 new training,25.2.2024 15:24,25.2.2024 15:24,biceps  curls, ,0,12,10
 new training,25.2.2024 15:24,25.2.2024 15:24,biceps  curls, ,1,5,20
 new training,25.2.2024 15:24,25.2.2024 15:24,bench press, ,0,12,10
